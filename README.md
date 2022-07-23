@@ -1,6 +1,6 @@
 # TweetsLocation
-Use Tweepy to collect tweets geolocation
+Use Tweepy to collect tweets geolocations
 
-An example result can be seen in tweets.txt
+tweets.txt is an example result.
 
 **Note**: Cpoy your own Twitter API keys and replace '...'.
